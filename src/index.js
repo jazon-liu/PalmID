@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Page from './js/page.jsx';
 import * as serviceWorker from './serviceWorker';
+
+import Page from './pages/PageHome.jsx';
 
 ReactDOM.render(<Page />, document.getElementById('root'));
 
