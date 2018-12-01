@@ -1,5 +1,7 @@
 .video-stream {
   float: left;
+  border-style: none groove none groove;
+  border-color: #868c8e;
 }
 
 .user-selection {
@@ -7,5 +9,11 @@
 }
 .page {
   height: 100vh;
-  background-color: #00E676;
+  background-color: #3f454f;
+  color: #00E676;
+}
+
+.navbar-brand {
+  color: #00E676 !important;
+  font-weight: bold;
 }

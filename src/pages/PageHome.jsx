@@ -33,7 +33,9 @@ export default class Page extends Component {
         <div className="main">
           <div className="video-stream">
             <div>
-              Video:
+                {/*<video width="320" height="240" controls>*/}
+                    {/*<!--ADD THE VIDEO ENDPOINT-->*/}
+                {/*</video>*/}
             </div>
           </div>
           <div className="user-selection">
